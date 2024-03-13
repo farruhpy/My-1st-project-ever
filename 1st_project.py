@@ -36,6 +36,6 @@ total_time=round(end_time-start_time, 1)
 
 
 
-print(f"Nice job! Lil buddy. You solved {TOTAL_PROBLEMS} problems within {total_time} seconds! ")
-print("Programmed by The Greatest Programmer Ever: Farruhbek Ergashov!© ")
+print(f"Nice job! You solved {TOTAL_PROBLEMS} problems within {total_time} seconds! ")
+
 
